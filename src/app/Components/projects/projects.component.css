@@ -1,0 +1,13 @@
+.m-7{
+    margin-bottom: 60px;
+}
+.bg-aqua{
+    background-color: aqua;
+}
+.card-style{
+    border: 20px;
+    border-color: rgb(4, 32, 56);
+    border-radius: 30px;
+    border-style: double;
+    background-color: rgb(65, 219, 219);
+}

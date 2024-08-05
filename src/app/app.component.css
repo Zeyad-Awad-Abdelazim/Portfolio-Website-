@@ -1,0 +1,13 @@
+.marg-auto{
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.bg{
+    /* background-color: rgb(86, 190, 189); */
+    background-color: rgb(46, 225, 225);
+}
+.app-comp-border{
+    border-radius: 55px;
+    border-style: double;
+    border-width: 23px;
+}
